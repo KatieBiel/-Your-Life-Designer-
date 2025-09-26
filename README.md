@@ -6,10 +6,10 @@ Maykay is a Flutter-based mobile app for a massage studio in the Netherlands. It
 
 ## 📱 Screenshots
 
-| Splash | Welcome | Home |
-|--------|---------|------|
-| <img src="docs/splash.jpg" width="200"/> | <img src="docs/welcome.jpg" width="200"/> | <img src="docs/home.jpg" width="200"/> |
+| Splash | Home | Program |
+|--------|------|---------|
+| <img src="docs/splash.jpg" width="200"/> | <img src="docs/home.jpg" width="200"/> | <img src="docs/program.jpg" width="200"/> |
 
-| Drawer | Loyalty | Gallery |
-|--------|---------|---------|
-| <img src="docs/drawer.jpg" width="200"/> | <img src="docs/loyalty.jpg" width="200"/> | <img src="docs/Galery.jpg" width="200"/> |
+| Account | Settings | Help |
+|---------|----------|------|
+| <img src="docs/account.jpg" width="200"/> | <img src="docs/settings.jpg" width="200"/> | <img src="docs/help.jpg" width="200"/> |
