@@ -13,7 +13,7 @@ Maykay is a Flutter-based mobile app for a massage studio in the Netherlands. It
 - Unique UI/UX – deep navy colors, modern pastel design, and intuitive navigation.  
 - Cross-platform – developed in Flutter for Android and iOS.
 
-- 
+  
 ## 📱 Screenshots
 
 | Splash | Home | Program |
