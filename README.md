@@ -1,5 +1,9 @@
 # -Your Life Designer-
-Maykay is a Flutter-based mobile app for a massage studio in the Netherlands. It offers booking, pricing, a loyalty program, and multilingual support (PL/EN/NL). With Firebase push notifications and an AI assistant for massage advice, the app helps clients discover services, enjoy promotions, and experience modern cross-platform UX design.
+Your Life Designer is a Flutter-based mobile app for personal growth and self-improvement.
+It offers structured programs across key life areas such as mindset, finance, and health, helping users grow step by step through guided weekly paths.
+With built-in progress tracking, partner and recovery codes, and a secure freemium subscription system, the app combines motivation with accountability.
+Available in Polish, English, and Dutch, it features smart push notifications for reminders and daily inspiration.
+Designed with a modern pastel UI and deep navy accents, Your Life Designer delivers a calming yet powerful experience — available on both Android and iOS.
 
 
 ## ✨ Features
